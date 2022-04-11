@@ -17,10 +17,10 @@
     }
     .solid-logo {
         position: absolute;
-        top: auto;
+        top: 11px;
         right: auto;
         bottom: auto;
-        left: 0;
+        left: 4px;
         margin: auto;
         width: 100%;
         opacity: 0;
@@ -29,7 +29,9 @@
     }
 }
 
-.cls-1 {
+.st0 {
     stroke: #ffd700;
     stroke-width: 15px;
+    fill: none;
+    stroke-miterlimit: 10;
 }
